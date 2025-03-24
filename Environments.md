@@ -1,5 +1,4 @@
 ## Available Envs
-## Available Envs
 
 | Enviroment Name | Status |
 |-----------------|--------|
