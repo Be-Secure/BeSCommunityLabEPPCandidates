@@ -1,93 +1,94 @@
 ## Available Envs
+## Available Envs
 
-| Enviroment Name | Status |
-|-----------------|--------|
-| `AIF360` | Published |
-| `AIX360` | Published |
-| `CodeLlama` | Published |
-| `DeepSeek-R1` | Published |
-| `DependencyCheck` | Published |
-| `Falcon3` | Published |
-| `HWC-API` | Published |
-| `LlmAssessment` | Published |
-| `NeMo-Guardrails` | Published |
-| `OIAB` | Published |
-| `OSSVerse-Buyer-App` | Published |
-| `Open-Vehicle-Monitoring-System-3` | Published |
-| `PurpleLlama` | Published |
-| `PyRIT` | Published |
-| `RomRaider` | Published |
-| `SmartEVSE-3` | Published |
-| `TextAttack` | Published |
-| `TheHive` | Published |
-| `adversarial-robustness-toolbox` | Published |
-| `aifairness360` | Published |
-| `airflow` | Published |
-| `apollo` | Published |
-| `bandit` | Published |
-| `beckn-onix` | Published |
-| `beep` | Published |
-| `beslab` | Published |
-| `besman` | Published |
-| `bliman` | Published |
-| `bloom` | Published |
-| `busmaster` | Published |
-| `buyer-ui` | Published |
-| `chainloop` | Published |
-| `cilium` | Published |
-| `classic-model` | Published |
-| `counterfit` | Published |
-| `criticality_score` | Published |
-| `druid` | Published |
-| `dubbo` | Published |
-| `eli5` | Published |
-| `envs` | Published |
-| `fairlearn` | Published |
-| `fastjson` | Published |
-| `fleetbase` | Published |
-| `fossology` | Published |
-| `giskard` | Published |
-| `gitleaks` | Published |
-| `grafana` | Published |
-| `grimoirelab` | Published |
-| `grype` | Published |
-| `guardrails` | Published |
-| `horusec` | Published |
-| `instructlab` | Published |
-| `jackson-core` | Published |
-| `jackson-databind` | Published |
-| `kestra` | Published |
-| `kubernetes` | Published |
-| `kyverno` | Published |
-| `lettuce` | Published |
-| `lime` | Published |
-| `logstash` | Published |
-| `mlflow` | Published |
-| `ms-sbom-tool` | Published |
-| `nightvision` | Published |
-| `oasp-seller-app` | Published |
-| `odxtools` | Published |
-| `open-adas` | Published |
-| `open_evse` | Published |
-| `openauto` | Published |
-| `opencti` | Published |
-| `openpilot` | Published |
-| `oscc` | Published |
-| `oss-fuzz` | Published |
-| `oss-fuzz-gen` | Published |
-| `privacyidea` | Published |
-| `prometheus` | Published |
-| `sbom-tool` | Published |
-| `scorecard` | Published |
-| `sechub` | Published |
-| `seller-ui` | Published |
-| `shap` | Published |
-| `shell_gpt` | Published |
-| `sonarqube` | Published |
-| `spdx-sbom-generator` | Published |
-| `sqlmap` | Published |
-| `struts` | Published |
-| `threat-dragon` | Published |
-| `trivy` | Published |
-| `watchtower` | Published |
-| `zaproxy` | Published |
+| Sr No | Environment Name | Status |
+|-------|-----------------|--------|
+| `` | `AIF360` | Published |
+| `` | `AIX360` | Published |
+| `` | `CodeLlama` | Published |
+| `` | `DeepSeek-R1` | Published |
+| `` | `DependencyCheck` | Published |
+| `` | `Falcon3` | Published |
+| `` | `HWC-API` | Published |
+| `` | `LlmAssessment` | Published |
+| `` | `NeMo-Guardrails` | Published |
+| `` | `OIAB` | Published |
+| `` | `OSSVerse-Buyer-App` | Published |
+| `` | `Open-Vehicle-Monitoring-System-3` | Published |
+| `` | `PurpleLlama` | Published |
+| `` | `PyRIT` | Published |
+| `` | `RomRaider` | Published |
+| `` | `SmartEVSE-3` | Published |
+| `` | `TextAttack` | Published |
+| `` | `TheHive` | Published |
+| `` | `adversarial-robustness-toolbox` | Published |
+| `` | `aifairness360` | Published |
+| `` | `airflow` | Published |
+| `` | `apollo` | Published |
+| `` | `bandit` | Published |
+| `` | `beckn-onix` | Published |
+| `` | `beep` | Published |
+| `` | `beslab` | Published |
+| `` | `besman` | Published |
+| `` | `bliman` | Published |
+| `` | `bloom` | Published |
+| `` | `busmaster` | Published |
+| `` | `buyer-ui` | Published |
+| `` | `chainloop` | Published |
+| `` | `cilium` | Published |
+| `` | `classic-model` | Published |
+| `` | `counterfit` | Published |
+| `` | `criticality_score` | Published |
+| `` | `druid` | Published |
+| `` | `dubbo` | Published |
+| `` | `eli5` | Published |
+| `` | `envs` | Published |
+| `` | `fairlearn` | Published |
+| `` | `fastjson` | Published |
+| `` | `fleetbase` | Published |
+| `` | `fossology` | Published |
+| `` | `giskard` | Published |
+| `` | `gitleaks` | Published |
+| `` | `grafana` | Published |
+| `` | `grimoirelab` | Published |
+| `` | `grype` | Published |
+| `` | `guardrails` | Published |
+| `` | `horusec` | Published |
+| `` | `instructlab` | Published |
+| `` | `jackson-core` | Published |
+| `` | `jackson-databind` | Published |
+| `` | `kestra` | Published |
+| `` | `kubernetes` | Published |
+| `` | `kyverno` | Published |
+| `` | `lettuce` | Published |
+| `` | `lime` | Published |
+| `` | `logstash` | Published |
+| `` | `mlflow` | Published |
+| `` | `ms-sbom-tool` | Published |
+| `` | `nightvision` | Published |
+| `` | `oasp-seller-app` | Published |
+| `` | `odxtools` | Published |
+| `` | `open-adas` | Published |
+| `` | `open_evse` | Published |
+| `` | `openauto` | Published |
+| `` | `opencti` | Published |
+| `` | `openpilot` | Published |
+| `` | `oscc` | Published |
+| `` | `oss-fuzz` | Published |
+| `` | `oss-fuzz-gen` | Published |
+| `` | `privacyidea` | Published |
+| `` | `prometheus` | Published |
+| `` | `sbom-tool` | Published |
+| `` | `scorecard` | Published |
+| `` | `sechub` | Published |
+| `` | `seller-ui` | Published |
+| `` | `shap` | Published |
+| `` | `shell_gpt` | Published |
+| `` | `sonarqube` | Published |
+| `` | `spdx-sbom-generator` | Published |
+| `` | `sqlmap` | Published |
+| `` | `struts` | Published |
+| `` | `threat-dragon` | Published |
+| `` | `trivy` | Published |
+| `` | `watchtower` | Published |
+| `` | `zaproxy` | Published |
