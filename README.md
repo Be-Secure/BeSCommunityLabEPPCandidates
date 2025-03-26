@@ -1,2 +1,2 @@
 # BeSEPPTracker
-Tracker for  BESEnvironments, BeSPlaybooks and BeSPlugins Candidates for Be-Secure Community Lab
+Tracker & Listing of  BeSEnvironments, BeSPlaybooks and BeSPlugins current candidates for Be-Secure Community Lab.
