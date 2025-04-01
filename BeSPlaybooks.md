@@ -1,4 +1,4 @@
-## Available Playbooks
+## Available BeS Playbooks
 
 | Sr No | Playbook Name | Version | File Name | Status | Publisher | Publish Date | Last Update Date | Links | Notes |
 |-------|------------------|---------|-----------|--------|---------- |--------------|------------------|-------|-------|
@@ -27,3 +27,7 @@
 | | | `0.0.1` | `besman-watchtower-0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
 | | | `0.0.1` | `besman-watchtower-0.0.1-steps.sh` | Published | BeS Community Lab | | | | |
 
+## Upcoming BeS Playbooks
+| Sr No | Playbook Name | Version | Status | Publisher | Links | ETA | Notes |
+|-------|------------------|---------|--------|-----------|-------|-----|-------|
+| 1 | \< name of playbook\> | 0.0.1 | To Do | | | xx-XXX-xxxx | |

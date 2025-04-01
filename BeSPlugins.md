@@ -14,5 +14,9 @@
 | 6 | `PurpleLlama` | | | | | | | | |
 | | | `0.0.1` | `beslab-PurpleLlama-plugin.sh` | In Progress | BeS Community Lab | | | | |
 
+## Upcoming BeS Plugins 
+| Sr No | Plugin Name | Version | Status | Publisher | Links | ETA | Notes |
+|-------|------------------|---------|--------|-----------|-------|-----|-------|
+| 1 | `` | 0.0.1 | To Do | | | xx-XXX-xxxx | |
 
 
