@@ -1,6 +1,6 @@
 ## Upcoming BeS Environments
-| Sr No | Environment Name | Version | Status | Link | Publisher | Start Date | Notes |
-|-------|------------------|---------|--------|------|-----------|------------|-------|
+| Sr No | OS Name | Version | Status | Origin Link | Be-Secure Link | Publisher | Start Date | Notes |
+|-------|------------------|---------|--------|------|-----------|------------|------------|-------|
 | 1 | cbom | 0.0.1 | To Do | https://github.com/IBM/CBOM | | | |
 | 2 | cbomkit | 0.0.1 | To Do | https://github.com/IBM/cbomkit | | | |
 | 3 | cbomkit-action | 0.0.1 | To Do | https://github.com/PQCA/cbomkit-action | | | |
@@ -31,7 +31,7 @@
 | 28 | oss-fuzz-gen | 0.0.1 | To Do | https://github.com/google/oss-fuzz-gen | | | |
 
 ## Available BeS Environments
-| Sr No | Environment Name | Version | File Name | Status | Publisher | Publish Date | Last Update Date | Links | Notes |
+| Sr No | OS Name | Version | Environment Name | Status | Publisher | Publish Date | Last Update Date | Links | Notes |
 |-------|------------------|---------|-----------|--------|---------- |--------------|------------------|-------|-------|
 | 1 | `AIF360` | | | | | | | | |
 | | | `0.0.1` | `besman-AIF360-RT-env-config.yaml` | Published | BeS Community Lab | | | | |
