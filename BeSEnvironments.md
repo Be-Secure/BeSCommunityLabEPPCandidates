@@ -369,4 +369,8 @@
 | | | `0.0.1` | `besman-zaproxy-BT-env.sh` | Published | BeS Community Lab | | | | |
 | | | `0.0.1` | `besman-zaproxy-RT-env-config.yaml` | Published | BeS Community Lab | | | | |
 | | | `0.0.1` | `besman-zaproxy-RT-env.sh` | Published | BeS Community Lab | | | | |
+| 89 | `Llama3` | | | | | | | | |
+| | | `0.0.1` | `besman-Llama3-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
+| | | `0.0.1` | `besman-Llama3-assessment-env.sh` | Published | BeS Community Lab | | | | |
+
 
