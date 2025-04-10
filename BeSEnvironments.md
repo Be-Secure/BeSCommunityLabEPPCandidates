@@ -372,5 +372,20 @@
 | 89 | `Llama3` | | | | | | | | |
 | | | `0.0.1` | `besman-Llama3-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
 | | | `0.0.1` | `besman-Llama3-assessment-env.sh` | Published | BeS Community Lab | | | | |
+| 90 | `Llama3.1` | | | | | | | | |
+| | | `0.0.1` | `besman-Llama3.1-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
+| | | `0.0.1` | `besman-Llama3.1-assessment-env.sh` | Published | BeS Community Lab | | | | |
+| 91 | `granite-code` | | | | | | | | |
+| | | `0.0.1` | `besman-granite-code-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
+| | | `0.0.1` | `besman-granite-code-assessment-env.sh` | Published | BeS Community Lab | | | | |
+| 92 | `granite3.2` | | | | | | | | |
+| | | `0.0.1` | `besman-granite3.2-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
+| | | `0.0.1` | `besman-granite3.2-assessment-env.sh` | Published | BeS Community Lab | | | | |
+| 93 | `phi4` | | | | | | | | |
+| | | `0.0.1` | `besman-phi4-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
+| | | `0.0.1` | `besman-phi4-assessment-env.sh` | Published | BeS Community Lab | | | | |
+| 94 | `mistral` | | | | | | | | |
+| | | `0.0.1` | `besman-mistral-assessment-env-config.yaml` | Published | BeS Community Lab | | | | |
+| | | `0.0.1` | `besman-mistral-assessment-env.sh` | Published | BeS Community Lab | | | | |
 
 
