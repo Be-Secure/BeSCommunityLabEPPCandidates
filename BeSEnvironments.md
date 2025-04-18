@@ -1,43 +1,92 @@
 ## Available BeS Environments
 
-| Environment Name                                                                 | Version | Links                                                                                                   | Status    | Publisher               | Publish Date | Contributors | Last Update Date | Notes |
-|---------------------------------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|-----------|-------------------------|--------------|--------------|------------------|-------|
-| <nobr>besman&#8209;Llama3.1&#8209;assessment&#8209;env</nobr>                   | 0.0.1   | [Llama3.1/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/Llama3.1/0.0.1)       | Published | BeS Community Lab       | 2025-04-09   | Be-Secure    | 2025-04-09       |       |
-| <nobr>besman&#8209;granite&#8209;code&#8209;assessment&#8209;env</nobr>         | 0.0.1   | [granite-code/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/granite-code/0.0.1) | Published | BeS Community Lab       | 2025-04-09   | Be-Secure    | 2025-04-09       |       |
-| <nobr>besman&#8209;granite3.2&#8209;assessment&#8209;env</nobr>                 | 0.0.1   | [granite3.2/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/granite3.2/0.0.1)   | Published | BeS Community Lab       | 2025-04-09   | Be-Secure    | 2025-04-09       |       |
-| <nobr>besman&#8209;phi4&#8209;assessment&#8209;env</nobr>                       | 0.0.1   | [phi4/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/phi4/0.0.1)               | Published | BeS Community Lab       | 2025-04-09   | Be-Secure    | 2025-04-09       |       |
-| <nobr>besman&#8209;mistral&#8209;assessment&#8209;env</nobr>                    | 0.0.1   | [mistral/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/mistral/0.0.1)         | Published | BeS Community Lab       | 2025-04-09   | Be-Secure    | 2025-04-09       |       |
-| <nobr>besman&#8209;LLMSafety&#8209;assessment&#8209;env</nobr>                  | 0.0.1   | [LLMSafety/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/LLMSafety/0.0.1)     | Published | BeS Community Lab       | 2025-04-06   | Be-Secure    | 2025-04-06       |       |
-| <nobr>besman&#8209;gemma3&#8209;assessment&#8209;env</nobr>                     | 0.0.1   | [gemma3/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/gemma3/0.0.1)           | Published | BeS Community Lab       | 2025-04-02   | Be-Secure    | 2025-04-02       |       |
-| <nobr>besman&#8209;DeepSeek&#8209;R1&#8209;assessment&#8209;env</nobr>          | 0.0.1   | [DeepSeek-R1/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/DeepSeek-R1/0.0.1) | Published | BeS Community Lab       | 2025-03-18   | Be-Secure    | 2025-03-18       |       |
-| <nobr>besman&#8209;shell_gpt&#8209;RT&#8209;env</nobr>                          | 0.0.1   | [shell_gpt/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/shell_gpt/0.0.1)     | Published | BeS Community Lab       | 2025-03-06   | Be-Secure    | 2025-03-06       |       |
-| <nobr>besman&#8209;scorecard&#8209;RT&#8209;env</nobr>                          | 0.0.1   | [scorecard/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/scorecard/0.0.1)     | Published | BeS Community Lab       | 2025-01-27   | Be-Secure    | 2025-01-27       |       |
-| <nobr>besman&#8209;CodeLlama&#8209;assessment&#8209;env</nobr>                  | 0.0.1   | [CodeLlama/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/CodeLlama/0.0.1)     | Published | BeS Community Lab       | 2025-01-02   | BeSLab       | 2025-01-02       |       |
-| <nobr>besman&#8209;bloom&#8209;assessment&#8209;env</nobr>                      | 0.0.1   | [bloom/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/bloom/0.0.1)             | Published | BeS Community Lab       | 2025-01-02   | BeSLab       | 2025-01-02       |       |
-| <nobr>besman&#8209;Falcon3&#8209;assessment&#8209;env</nobr>                    | 0.0.1   | [Falcon3/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/Falcon3/0.0.1)         | Published | BeS Community Lab       | 2025-01-02   | BeSLab       | 2025-01-02       |       |
-| <nobr>besman&#8209;adversarial&#8209;robustness&#8209;toolbox&#8209;RT&#8209;env</nobr> | 0.0.1   | [adversarial_toolbox/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/adversarial_toolbox/0.0.1) | Published | BeS Community Lab       | 2024-12-20   | BeSLab       | 2024-12-20       |       |
-| <nobr>besman&#8209;AIX360&#8209;RT&#8209;env</nobr>                             | 0.0.1   | [AIX360/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/AIX360/0.0.1)           | Published | BeS Community Lab       | 2024-12-20   | BeSLab       | 2024-12-20       |       |
-| <nobr>besman&#8209;lime&#8209;RT&#8209;env</nobr>                               | 0.0.1   | [lime/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/lime/0.0.1)               | Published | BeS Community Lab       | 2024-12-20   | BeSLab       | 2024-12-20       |       |
-| <nobr>besman&#8209;beslab&#8209;RT&#8209;env</nobr>                             | 0.0.1   | [beslab/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/beslab/0.0.1)           | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;fairlearn&#8209;RT&#8209;env</nobr>                          | 0.0.1   | [fairlearn/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/fairlearn/0.0.1)     | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;besman&#8209;RT&#8209;env</nobr>                             | 0.0.1   | [besman/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/besman/0.0.1)           | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;bliman&#8209;RT&#8209;env</nobr>                             | 0.0.1   | [bliman/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/bliman/0.0.1)           | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;AIF360&#8209;RT&#8209;env</nobr>                             | 0.0.1   | [AIF360/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/AIF360/0.0.1)           | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;buyer&#8209;ui&#8209;RT&#8209;env</nobr>                     | 0.0.1   | [buyer-ui/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/buyer-ui/0.0.1)       | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;seller&#8209;ui&#8209;RT&#8209;env</nobr>                    | 0.0.1   | [seller-ui/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/seller-ui/0.0.1)     | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;beckn&#8209;onix&#8209;RT&#8209;env</nobr>                   | 0.0.1   | [beckn-onix/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/beckn-onix/0.0.1)   | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;instructlab&#8209;RT&#8209;env</nobr>                        | 0.0.1   | [instructlab/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/instructlab/0.0.1) | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;giskard&#8209;RT&#8209;env</nobr>                            | 0.0.1   | [giskard/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/giskard/0.0.1)         | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;grimoirelab&#8209;RT&#8209;env</nobr>                        | 0.0.1   | [grimoirelab/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/grimoirelab/0.0.1) | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;oss&#8209;fuzz&#8209;gen&#8209;RT&#8209;env</nobr>           | 0.0.1   | [oss-fuzz-gen/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/oss-fuzz-gen/0.0.1) | Published | BeS Community Lab      | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;oss&#8209;fuzz&#8209;RT&#8209;env</nobr>                     | 0.0.1   | [oss-fuzz/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/oss-fuzz/0.0.1)       | Published | BeS Community Lab       | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;ms&#8209;sbom&#8209;tool&#8209;RT&#8209;env</nobr>           | 0.0.1   | [ms-sbom-tool/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/ms-sbom-tool/0.0.1) | Published | BeS Community Lab      | 2024-12-13   | Be-Secure    | 2024-12-13       |       |
-| <nobr>besman&#8209;OIAB&#8209;Buyer&#8209;App&#8209;setup&#8209;env</nobr>      | 0.0.1   | [OIAB-Buyer-App/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/OIAB-Buyer-App/0.0.1) | Published | BeS Community Lab | 2024-11-20   | BeSLab       | 2024-11-20       |       |
-| <nobr>besman&#8209;criticality_score&#8209;RT&#8209;env</nobr>                  | 0.0.1   | [criticality_score/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/criticality_score/0.0.1) | Published | BeS Community Lab | 2024-11-11   | BeSLab       | 2024-11-11       |       |
-| <nobr>besman&#8209;fossology&#8209;RT&#8209;env</nobr>                          | 0.0.1   | [fossology/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/fossology/0.0.1)     | Published | BeS Community Lab       | 2024-11-11   | BeSLab       | 2024-11-11       |       |
-| <nobr>besman&#8209;sonarqube&#8209;RT&#8209;env</nobr>                          | 0.0.1   | [sonarqube/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/sonarqube/0.0.1)     | Published | BeS Community Lab       | 2024-11-11   | BeSLab       | 2024-11-11       |       |
-| <nobr>besman&#8209;spdx&#8209;sbom&#8209;generator&#8209;RT&#8209;env</nobr>    | 0.0.1   | [spdx-sbom-generator/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/spdx-sbom-generator/0.0.1) | Published | BeS Community Lab | 2024-11-11   | BeSLab       | 2024-11-11       |       |
-| <nobr>besman&#8209;oasp&#8209;seller&#8209;app&#8209;RT&#8209;env</nobr>        | 0.0.1   | [oasp-seller-app/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/oasp-seller-app/0.0.1) | Published | BeS Community Lab | 2024-10-24   | Be-Secure    | 2024-10-24       |       |
-| <nobr>besman&#8209;privacyidea&#8209;RT&#8209;env</nobr>                        | 0.0.1   | [privacyidea/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/privacyidea/0.0.1) | Published | BeS Community Lab       | 2024-10-01   | BeSLab       | 2024-10-01       |       |
-| <nobr>besman&#8209;TheHive&#8209;RT&#8209;env</nobr>                            | 0.0.1   | [TheHive/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/TheHive/0.0.1)         | Published | BeS Community Lab       | 2024-09-27   | BeSLab       | 2024-09-27       |       |
-| <nobr>besman&#8209;grype&#8209;RT&#8209;env</nobr>                              | 0.0.1   | [grype/0.0.1](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/grype/0.0.1)             | Published | BeS Community Lab       | 2024-09-27   | BeSLab       | 2024-09-27       |       |
+Environment Name | Version | Link | Status | Publisher | Publish Date | Contributors | Last Update Date | Notes
+------------------|---------|-------|--------|-----------|--------------|--------------|----------------|------
+adversarial-robustness-toolbox-RT-env | 0.0.1 |  |  |  |  |  |  |  
+AIX360-RT-env | 0.0.1 |  |  |  |  |  |  |  
+lime-RT-env | 0.0.1 |  |  |  |  |  |  |  
+fastjson-RT-env | 0.0.1 |  |  |  |  |  |  |  
+fastjson-BT-env | 0.0.1 |  |  |  |  |  |  |  
+classic-model-RT-env | 0.0.1 |  |  |  |  |  |  |  
+druid-BT-env | 0.0.1 |  |  |  |  |  |  |  
+HWC-API-BT-env | 0.0.1 |  |  |  |  |  |  |  
+jackson-core-BT-env | 0.0.1 |  |  |  |  |  |  |  
+jackson-databind-BT-env | 0.0.1 |  |  |  |  |  |  |  
+jackson-databind-RT-env | 0.0.1 |  |  |  |  |  |  |  
+lettuce-BT-env | 0.0.1 |  |  |  |  |  |  |  
+opencti-RT-env | 0.0.1 |  |  |  |  |  |  |  
+zaproxy-RT-env | 0.0.1 |  |  |  |  |  |  |  
+zaproxy-BT-env | 0.0.1 |  |  |  |  |  |  |  
+PyRIT-RT-env | 0.0.1 |  |  |  |  |  |  |  
+fleetbase-RT-env | 0.0.1 |  |  |  |  |  |  |  
+odxtools-RT-env | 0.0.1 |  |  |  |  |  |  |  
+LlmAssessment-RT-env | 0.0.1 |  |  |  |  |  |  |  
+sechub-RT-env | 0.0.1 |  |  |  |  |  |  |  
+dubbo-RT-env | 0.0.1 |  |  |  |  |  |  |  
+struts-RT-env | 0.0.1 |  |  |  |  |  |  |  
+privacyidea-RT-env | 0.0.1 |  |  |  |  |  |  |  
+prometheus-RT-env | 0.0.1 |  |  |  |  |  |  |  
+logstash-RT-env | 0.0.1 |  |  |  |  |  |  |  
+RomRaider-RT-env | 0.0.1 |  |  |  |  |  |  |  
+beep-RT-env | 0.0.1 |  |  |  |  |  |  |  
+kubernetes-RT-env | 0.0.1 |  |  |  |  |  |  |  
+cilium-RT-env | 0.0.1 |  |  |  |  |  |  |  
+guardrails-RT-env | 0.0.1 |  |  |  |  |  |  |  
+threat-dragon-RT-env | 0.0.1 |  |  |  |  |  |  |  
+grype-RT-env | 0.0.1 |  |  |  |  |  |  |  
+sqlmap-RT-env | 0.0.1 |  |  |  |  |  |  |  
+trivy-RT-env | 0.0.1 |  |  |  |  |  |  |  
+bandit-RT-env | 0.0.1 |  |  |  |  |  |  |  
+kyverno-RT-env | 0.0.1 |  |  |  |  |  |  |  
+TheHive-RT-env | 0.0.1 |  |  |  |  |  |  |  
+openpilot-RT-env | 0.0.1 |  |  |  |  |  |  |  
+open-adas-RT-env | 0.0.1 |  |  |  |  |  |  |  
+nightvision-RT-env | 0.0.1 |  |  |  |  |  |  |  
+oscc-RT-env | 0.0.1 |  |  |  |  |  |  |  
+openauto-RT-env | 0.0.1 |  |  |  |  |  |  |  
+apollo-RT-env | 0.0.1 |  |  |  |  |  |  |  
+gitleaks-RT-env | 0.0.1 |  |  |  |  |  |  |  
+kestra-RT-env | 0.0.1 |  |  |  |  |  |  |  
+airflow-RT-env | 0.0.1 |  |  |  |  |  |  |  
+chainloop-RT-env | 0.0.1 |  |  |  |  |  |  |  
+oasp-seller-app-RT-env | 0.0.1 |  |  |  |  |  |  |  
+OSSVerse-Buyer-App-RT-env | 0.0.1 |  |  |  |  |  |  |  
+criticality_score-RT-env | 0.0.1 |  |  |  |  |  |  |  
+SmartEVSE-3-RT-env | 0.0.1 |  |  |  |  |  |  |  
+Open-Vehicle-Monitoring-System-3-RT-env | 0.0.1 |  |  |  |  |  |  |  
+open_evse-RT-env | 0.0.1 |  |  |  |  |  |  |  
+busmaster-RT-env | 0.0.1 |  |  |  |  |  |  |  
+fossology-RT-env | 0.0.1 |  |  |  |  |  |  |  
+sonarqube-RT-env | 0.0.1 |  |  |  |  |  |  |  
+spdx-sbom-generator-RT-env | 0.0.1 |  |  |  |  |  |  |  
+OIAB-Buyer-App-setup-env | 0.0.1 |  |  |  |  |  |  |  
+ms-sbom-tool-RT-env | 0.0.1 |  |  |  |  |  |  |  
+oss-fuzz-RT-env | 0.0.1 |  |  |  |  |  |  |  
+oss-fuzz-gen-RT-env | 0.0.1 |  |  |  |  |  |  |  
+grimoirelab-RT-env | 0.0.1 |  |  |  |  |  |  |  
+giskard-RT-env | 0.0.1 |  |  |  |  |  |  |  
+instructlab-RT-env | 0.0.1 |  |  |  |  |  |  |  
+beckn-onix-RT-env | 0.0.1 |  |  |  |  |  |  |  
+seller-ui-RT-env | 0.0.1 |  |  |  |  |  |  |  
+buyer-ui-RT-env | 0.0.1 |  |  |  |  |  |  |  
+AIF360-RT-env | 0.0.1 |  |  |  |  |  |  |  
+bliman-RT-env | 0.0.1 |  |  |  |  |  |  |  
+besman-RT-env | 0.0.1 |  |  |  |  |  |  |  
+beslab-RT-env | 0.0.1 |  |  |  |  |  |  |  
+fairlearn-RT-env | 0.0.1 |  |  |  |  |  |  |  
+scorecard-RT-env | 0.0.1 |  |  |  |  |  |  |  
+CodeLlama-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+bloom-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+Falcon3-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+shell_gpt-RT-env | 0.0.1 |  |  |  |  |  |  |  
+DeepSeek-R1-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+Llama3-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+gemma3-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+LLMSafety-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+Llama3.1-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+granite-code-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+granite3.2-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+phi4-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+mistral-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+LLMSafety-assessment-env | 0.0.1 |  |  |  |  |  |  |  
+cogito-assessment-env | 0.0.1 |  |  |  |  |  |  |  
