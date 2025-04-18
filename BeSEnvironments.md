@@ -1,92 +1,14 @@
 ## Available BeS Environments
 
-| Environment Name | Version | Link | Status | Publisher | Publish Date | Contributors | Last Update Date | Notes |
-|------------------|---------|------|--------|-----------|--------------|--------------|------------------|-------|
-| besman&#8209;cogito&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-11 |  | 2025-04-11 |  |
-| besman&#8209;Llama3.1&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09 |  | 2025-04-09 |  |
-| besman&#8209;granite&#8209;code&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09 |  | 2025-04-09 |  |
-| besman&#8209;granite3.2&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09 |  | 2025-04-09 |  |
-| besman&#8209;phi4&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09 |  | 2025-04-09 |  |
-| besman&#8209;mistral&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09 |  | 2025-04-09 |  |
-| besman&#8209;LLMSafety&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-06 |  | 2025-04-06 |  |
-| besman&#8209;LLMSafety&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-06 |  | 2025-04-06 |  |
-| besman&#8209;gemma3&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-02 |  | 2025-04-02 |  |
-| besman&#8209;Llama3&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-03-28 |  | 2025-03-28 |  |
-| besman&#8209;DeepSeek&#8209;R1&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-03-18 |  | 2025-03-18 |  |
-| besman&#8209;shell_gpt&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-03-06 |  | 2025-03-06 |  |
-| besman&#8209;scorecard&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-01-27 |  | 2025-01-27 |  |
-| besman&#8209;CodeLlama&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-01-02 |  | 2025-01-02 |  |
-| besman&#8209;bloom&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-01-02 |  | 2025-01-02 |  |
-| besman&#8209;Falcon3&#8209;assessment&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2025-01-02 |  | 2025-01-02 |  |
-| besman&#8209;adversarial&#8209;robustness&#8209;toolbox&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-20 |  | 2024-12-20 |  |
-| besman&#8209;AIX360&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-20 |  | 2024-12-20 |  |
-| besman&#8209;lime&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-20 |  | 2024-12-20 |  |
-| besman&#8209;beslab&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;fairlearn&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;besman&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;bliman&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;AIF360&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;buyer&#8209;ui&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;seller&#8209;ui&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;beckn&#8209;onix&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;instructlab&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;giskard&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;grimoirelab&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;oss&#8209;fuzz&#8209;gen&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;oss&#8209;fuzz&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;ms&#8209;sbom&#8209;tool&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-12-13 |  | 2024-12-13 |  |
-| besman&#8209;OIAB&#8209;Buyer&#8209;App&#8209;setup&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-11-20 |  | 2024-11-20 |  |
-| besman&#8209;criticality_score&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-11-11 |  | 2024-11-11 |  |
-| besman&#8209;fossology&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-11-11 |  | 2024-11-11 |  |
-| besman&#8209;sonarqube&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-11-11 |  | 2024-11-11 |  |
-| besman&#8209;spdx&#8209;sbom&#8209;generator&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-11-11 |  | 2024-11-11 |  |
-| besman&#8209;oasp&#8209;seller&#8209;app&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-10-24 |  | 2024-10-24 |  |
-| besman&#8209;privacyidea&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-10-01 |  | 2024-10-01 |  |
-| besman&#8209;TheHive&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-27 |  | 2024-09-27 |  |
-| besman&#8209;grype&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-26 |  | 2024-09-26 |  |
-| besman&#8209;guardrails&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-26 |  | 2024-09-26 |  |
-| besman&#8209;sqlmap&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-25 |  | 2024-09-25 |  |
-| besman&#8209;bandit&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-25 |  | 2024-09-25 |  |
-| besman&#8209;kyverno&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-25 |  | 2024-09-25 |  |
-| besman&#8209;trivy&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-23 |  | 2024-09-23 |  |
-| besman&#8209;kubernetes&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-18 |  | 2024-09-18 |  |
-| besman&#8209;cilium&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-18 |  | 2024-09-18 |  |
-| besman&#8209;kestra&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-02 |  | 2024-09-02 |  |
-| besman&#8209;gitleaks&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-02 |  | 2024-09-02 |  |
-| besman&#8209;airflow&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-02 |  | 2024-09-02 |  |
-| besman&#8209;chainloop&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-02 |  | 2024-09-02 |  |
-| besman&#8209;OSSVerse&#8209;Buyer&#8209;App&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-02 |  | 2024-09-02 |  |
-| besman&#8209;threat&#8209;dragon&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-09-02 |  | 2024-09-02 |  |
-| besman&#8209;busmaster&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-21 |  | 2024-08-21 |  |
-| besman&#8209;open_evse&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-21 |  | 2024-08-21 |  |
-| besman&#8209;Open&#8209;Vehicle&#8209;Monitoring&#8209;System&#8209;3&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-21 |  | 2024-08-21 |  |
-| besman&#8209;SmartEVSE&#8209;3&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-21 |  | 2024-08-21 |  |
-| besman&#8209;beep&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-18 |  | 2024-08-18 |  |
-| besman&#8209;open&#8209;adas&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-14 |  | 2024-08-14 |  |
-| besman&#8209;openpilot&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-14 |  | 2024-08-14 |  |
-| besman&#8209;apollo&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-13 |  | 2024-08-13 |  |
-| besman&#8209;openauto&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-13 |  | 2024-08-13 |  |
-| besman&#8209;oscc&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-13 |  | 2024-08-13 |  |
-| besman&#8209;RomRaider&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-12 |  | 2024-08-12 |  |
-| besman&#8209;nightvision&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-08-12 |  | 2024-08-12 |  |
-| besman&#8209;odxtools&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-07-14 |  | 2024-07-14 |  |
-| besman&#8209;fleetbase&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-07-14 |  | 2024-07-14 |  |
-| besman&#8209;LlmAssessment&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-07-09 |  | 2024-07-09 |  |
-| besman&#8209;logstash&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-07-01 |  | 2024-07-01 |  |
-| besman&#8209;prometheus&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-07-01 |  | 2024-07-01 |  |
-| besman&#8209;dubbo&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-06-26 |  | 2024-06-27 |  |
-| besman&#8209;struts&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-06-26 |  | 2024-06-27 |  |
-| besman&#8209;classic&#8209;model&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-05-27 |  | 2024-05-21 |  |
-| besman&#8209;sechub&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-05-27 |  | 2024-05-21 |  |
-| besman&#8209;jackson&#8209;core&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-25 |  | 2024-04-25 |  |
-| besman&#8209;opencti&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-22 |  | 2024-04-22 |  |
-| besman&#8209;jackson&#8209;databind&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-08 |  | 2024-04-08 |  |
-| besman&#8209;lettuce&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-08 |  | 2024-04-08 |  |
-| besman&#8209;druid&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-02 |  | 2024-04-02 |  |
-| besman&#8209;HWC&#8209;API&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-02 |  | 2024-04-02 |  |
-| besman&#8209;jackson&#8209;databind&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2024-04-02 |  | 2024-04-02 |  |
-| besman&#8209;PyRIT&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2023-07-09 |  | 2024-07-09 |  |
-| besman&#8209;zaproxy&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2023-07-04 |  | 2024-04-02 |  |
-| besman&#8209;zaproxy&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2023-07-04 |  | 2024-04-02 |  |
-| besman&#8209;fastjson&#8209;RT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2022-07-14 |  | 2024-04-16 |  |
-| besman&#8209;fastjson&#8209;BT&#8209;env | 0.0.1 |  | Published | BeS&nbsp;Community&nbsp;Lab | 2022-07-14 |  | 2024-04-16 |  |
+| Environment Name                 | Version | Link                                                                                       | Status    | Publisher            | Publish Date | Contributors | Last Update Date | Notes |
+|----------------------------------|---------|-------------------------------------------------------------------------------------------|-----------|----------------------|--------------|--------------|------------------|-------|
+| cogito-assessment-env            | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/cogito-assessment-env/0.0.1)             | Published | BeS Community Lab    | 2025-04-11   |              | 2025-04-11       |       |
+| Llama3.1-assessment-env          | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/Llama3.1-assessment-env/0.0.1)           | Published | BeS Community Lab    | 2025-04-09   |              | 2025-04-09       |       |
+| granite-code-assessment-env      | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/granite-code-assessment-env/0.0.1)       | Published | BeS Community Lab    | 2025-04-09   |              | 2025-04-09       |       |
+| granite3.2-assessment-env        | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/granite3.2-assessment-env/0.0.1)         | Published | BeS Community Lab    | 2025-04-09   |              | 2025-04-09       |       |
+| phi4-assessment-env              | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/phi4-assessment-env/0.0.1)               | Published | BeS Community Lab    | 2025-04-09   |              | 2025-04-09       |       |
+| mistral-assessment-env           | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/mistral-assessment-env/0.0.1)            | Published | BeS Community Lab    | 2025-04-09   |              | 2025-04-09       |       |
+| LLMSafety-assessment-env         | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/LLMSafety-assessment-env/0.0.1)          | Published | BeS Community Lab    | 2025-04-06   |              | 2025-04-06       |       |
+| gemma3-assessment-env            | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/gemma3-assessment-env/0.0.1)             | Published | BeS Community Lab    | 2025-04-02   |              | 2025-04-02       |       |
+| Llama3-assessment-env            | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/Llama3-assessment-env/0.0.1)             | Published | BeS Community Lab    | 2025-03-28   |              | 2025-03-28       |       |
+| DeepSeek-R1-assessment-env       | 0.0.1   | [Link](https://github.com/NeerajK007/besecure-ce-env-repo/tree/develop/DeepSeek-R1-assessment-env/0.0.1)        | Published | BeS Community Lab    | 2025-03-18   |              | 2025-03-18       |       |
