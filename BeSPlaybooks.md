@@ -1,35 +1,13 @@
-## Upcoming BeS Playbooks
-| Sr No | Open Source Name | Version | Intet\/ Purpose | Playbook Name | Status | Origin Link | Be-Secure Link | Publisher | Start Date | Notes |
-|-------|------------------|---------|-----------------|---------------|--------|-------------|----------------|----------|------------|-------|
-| 1 | cbomkit-action | 0.0.1 | assessment | assessmwnt-cbomkitAction0.0.1 | To do | https://github.com/PQCA/cbomkit-action | | | | |
-
-
 ## Available BeS Playbooks
-| Sr No | Open Source Name | Version | File Name | Status | Publisher | Publish Date | Last Update Date | Links | Notes |
-|-------|------------------|---------|-----------|------- |-----------|--------------|------------|-----|-------|-------|
 
-| 1 | `CVE-2017-18349-rce-fastjson` | | | | | | | | |
-| | | 0.0.1 | `besman-exploit-CVE-2017-18349-playbook.sh` | Published | BeS Community Lab | | | | |
-| 2 | `CVE-2019-6339-rce-drupal` | | | | | | | | |
-| | | 0.0.1 | `besman-exploit-CVE-2019-6339-playbook.sh` | Published | BeS Community Lab | | | | |
-| 3 | `counterfit` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-counterfit0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
-| | | 0.0.1 | `besman-assessment-counterfit0.0.1-steps.ipynb` | Published | BeS Community Lab | | | | |
-| 3 | `criticality_score` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-criticalityScore0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
-| | | 0.0.1 | `besman-assessment-criticalityScore0.0.1-steps.sh` | Published | BeS Community Lab | | | | |
-| 4 | `fossology` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-fossology0.0.1-steps.md` | Published | BeS Community Lab | | | | |
-| 5 | `scorecard` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-scorecard0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
-| | | 0.0.1 | `besman-assessment-scorecard0.0.1-steps.sh` | Published | BeS Community Lab | | | | |
-| 6 | `sonarqube` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-sonarqube0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
-| | | 0.0.1 | `besman-assessment-sonarqube0.0.1-steps.ipynb` | Published | BeS Community Lab | | | | |
-| 7 | `spdx-sbom-generator` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-spdxSbomGenerator0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
-| | | 0.0.1 | `besman-assessment-spdxSbomGenerator0.0.1-steps.sh` | Published | BeS Community Lab | | | | |
-| 8 | `watchtower` | | | | | | | | |
-| | | 0.0.1 | `besman-assessment-watchtower0.0.1-playbook.sh` | Published | BeS Community Lab | | | | |
-| | | 0.0.1 | `besman-assessment-watchtower0.0.1-steps.sh` | Published | BeS Community Lab | | | | |
-
+| Playbook Name                                                                         | Version | Link | Status | Publisher           | Publish Date | Contributors | Last Update Date | Notes |
+|-----------------------------------------------------------------------------------------|---------|------|--------|---------------------|--------------|--------------|------------------|-------|
+| cyclonedx&#8209;sbom&#8209;generator                                                         | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2025-01-17   |              | 2025-01-17       |       |
+| llmSecurityBenchmark&#8209;frr                                                             | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2025-04-04   |              | 2025-04-04       |       |
+| assessment&#8209;cbom                                                                    | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2025-04-04   |              | 2025-04-04       |       |
+| counterfit                                                                              | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2024-06-12   |              | 2024-06-12       |       |
+| watchtower                                                                              | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2024-05-30   |              | 2024-05-30       |       |
+| sonarqube                                                                               | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2024-05-16   |              | 2024-05-16       |       |
+| scorecard                                                                               | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2024-05-06   |              | 2024-05-06       |       |
+| criticality&#8209;score                                                                   | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2024-04-12   |              | 2024-04-15       |       |
+| spdx&#8209;sbom&#8209;generator                                                            | 0.0.1   |      |        | BeS&nbsp;Community&nbsp;Lab | 2024-02-27   |              | 2024-02-27       |       |
