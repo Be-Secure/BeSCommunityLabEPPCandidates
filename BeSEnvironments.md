@@ -1,6 +1,7 @@
 [Go To Available BeS Environments](#available-bes-environments)
 
 
+
 <sub>The 'Assigned' column indicates the assignment status of each BeS Environment. The values are either 'Assigned' (currently assigned to a user or team) or 'TBA' (To Be Assigned).<sub>
 
 
@@ -10,11 +11,11 @@
 | ---------------- | ------- | ---- | -------- | ------ | ------ | ------- | ------- | ----- |
 
 
-[Go To Upcoming BeS Environments](#upcoming-bes-environments)
+
 ## Available BeS Environments
 
-| Environment Name                                                                         | Version | Link                                                                                                           | Status    | Publisher                   | Publish Date | Last Update Date | Notes |
-| ---------------------------------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- | ------------ | ---------------- | ----- |
+| Environment Name                                                                         | Version | Link                                                                                                          | Status    | Publisher                   | Publish Date | Last Update Date | Notes |
+| ---------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------- | --------- | --------------------------- | ------------ | ---------------- | ----- |
 | besman&#8209;cogito&#8209;assessment&#8209;env                                           | 0.0.1   | [Link](https://github.com/Be-Secure/besecure-ce-env-repo/tree/develop/cogito/0.0.1)                           | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-11   | 2025-04-11       |       |
 | besman&#8209;Llama3.1&#8209;assessment&#8209;env                                         | 0.0.1   | [Link](https://github.com/Be-Secure/besecure-ce-env-repo/tree/develop/Llama3.1/0.0.1)                         | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09   | 2025-04-09       |       |
 | besman&#8209;granite&#8209;code&#8209;assessment&#8209;env                               | 0.0.1   | [Link](https://github.com/Be-Secure/besecure-ce-env-repo/tree/develop/granite-code/0.0.1)                     | Published | BeS&nbsp;Community&nbsp;Lab | 2025-04-09   | 2025-04-09       |       |
