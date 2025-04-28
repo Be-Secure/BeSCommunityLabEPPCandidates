@@ -1,6 +1,7 @@
 [Go To Available BeS Playbooks](#available-bes-playbooks)
 
 
+
 <sub>The 'Assigned' column indicates the assignment status of each BeS Playbook. The values are either 'Assigned' (currently assigned to a user or team) or 'TBA' (To Be Assigned).<sub>
 
 
@@ -11,7 +12,7 @@
 |               |         |      |          |        |           |              |                  |       |
 
 
-[Go To Upcoming BeS Playbooks](#upcoming-bes-playbooks)
+
 ## Available BeS Playbooks
 
 | Playbook Name                                                         | Version | Link                                                                                                                                              | Status    | Publisher                   | Publish Date | Last Update Date | Notes |
