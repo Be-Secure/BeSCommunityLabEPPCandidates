@@ -9,8 +9,34 @@
 
 | Environment Name | Version | Link | Assigned | Status | Source | Created | Updated | Notes |
 | ---------------- | ------- | ---- | -------- | ------ | ------ | ------- | ------- | ----- |
-
-
+besman-gitlab-RT-env | | | | Not Assigned | [source](https://gitlab.com/gitlab-org/gitlab) |  |  |  |  |
+besman-BeSLighthouse-RT-env | | | | Not Assigned | [source](https://github.com/Be-Secure/BeSLighthouse) |  |  |  |  |
+besman-Ollama-RT-env | | | | Not Assigned | [source](https://github.com/Ollama/Ollama) |  |  |  |  |
+besman-garak-RT-env | | | | Not Assigned | [source](https://github.com/NVIDIA/garak) |  |  |  |  |
+besman-DeepRobust-RT-env | | | | Not Assigned | [source](https://github.com/DSE-MSU/DeepRobust) |  |  |  |  |
+besman-what-if-tool-RT-env | | | | Not Assigned | [source](https://github.com/PAIR-code/what-if-tool) |  |  |  |  |
+besman-PurpleLlama-RT-env | | | | Not Assigned | [source](https://github.com/meta-llama/PurpleLlama) |  |  |  |  |
+besman-ailuminate-RT-env | | | | Not Assigned | [source](https://github.com/mlcommons/ailuminate) |  |  |  |  |
+besman-AIGoat-RT-env | | | | Not Assigned | [source](https://github.com/orcasecurity-research/AIGoat) |  |  |  |  |
+besman-nbdefense-RT-env | | | | Not Assigned | [source](https://github.com/protectai/nbdefense) |  |  |  |  |
+besman-promptfoo-RT-env | | | | Not Assigned | [source](https://github.com/promptfoo/promptfoo) |  |  |  |  |
+besman-nmap-RT-env | | | | Not Assigned | [source](https://github.com/nmap/nmap) |  |  |  |  |
+besman-presidio-RT-env | | | | Not Assigned | [source](https://github.com/microsoft/presidio) |  |  |  |  |
+besman-model-card-toolkit-RT-env | | | | Not Assigned | [source](https://github.com/tensorflow/model-card-toolkit) |  |  |  |  |
+besman-ai-governance-factsheet-samples-RT-env | | | | Not Assigned | [source](https://github.com/IBM/ai-governance-factsheet-samples) |  |  |  |  |
+besman-aiid-RT-env | | | | Not Assigned | [source](https://github.com/responsible-ai-collaborative/aiid) |  |  |  |  |
+besman-pytext-RT-env | | | | Not Assigned | [source](https://github.com/facebookresearch/pytext) |  |  |  |  |
+besman-privacy-RT-env | | | | Not Assigned | [source](https://github.com/tensorflow/privacy) |  |  |  |  |
+besman-guardrails-RT-env | | | | Not Assigned | [source](https://github.com/guardrails-ai/guardrails) |  |  |  |  |
+besman-caldera-atlas-RT-env | | | | Not Assigned | [source](https://github.com/mitre-atlas/caldera-atlas) |  |  |  |  |
+besman-dioptra-RT-env | | | | Not Assigned | [source](https://github.com/usnistgov/dioptra) |  |  |  |  |
+besman-create-Llama-RT-env | | | | Not Assigned | [source](https://github.com/run-Llama/create-llama) |  |  |  |  |
+besman-llama_index-RT-env | | | | Not Assigned | [source](https://github.com/run-llama/llama_index) |  |  |  |  |
+besman-milvus-RT-env | | | | Not Assigned | [source](https://github.com/milvus-io/milvus) |  |  |  |  |
+besman-qdrant-RT-env | | | | Not Assigned | [source](https://github.com/qdrant/qdrant) |  |  |  |  |
+besman-weavite-RT-env | | | | Not Assigned | [source](https://github.com/weavite/weavite) |  |  |  |  |
+besman-chroma-RT-env | | | | Not Assigned | [source](https://github.com/chroma-core/chroma) |  |  |  |  |
+besman-keycloak-RT-env | | | | Not Assigned | [source](https://github.com/keycloak/keycloak) |  |  |  |  |
 
 ## Available BeS Environments
 
