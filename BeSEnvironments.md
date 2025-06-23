@@ -37,6 +37,8 @@ besman-qdrant-RT-env | | | | Not Assigned | [source](https://github.com/qdrant/q
 besman-weavite-RT-env | | | | Not Assigned | [source](https://github.com/weavite/weavite) |  |  |  |  |
 besman-chroma-RT-env | | | | Not Assigned | [source](https://github.com/chroma-core/chroma) |  |  |  |  |
 besman-keycloak-RT-env | | | | Not Assigned | [source](https://github.com/keycloak/keycloak) |  |  |  |  |
+besman-AgentBench-RT-env | | | | Not Assigned | [source](https://github.com/THUDM/AgentBench) |  |  |  |  |
+besman-REALM-Bench-RT-env | | | | Not Assigned | [source](https://github.com/renglongling/REALM-Bench) |  |  |  |  |
 
 ## Available BeS Environments
 
